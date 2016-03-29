@@ -1,4 +1,4 @@
-# @author Chuhui Zhang (andrewID: chuhuiz)
+
 # File created: Feb 16, 2016
 # File commited:
 # This program is in support of content analysis.
